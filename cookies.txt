@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sysco.com	TRUE	/	FALSE	1999999999	JSESSIONID	D3BF38C23891B83D731A87C381B43441
+www.sysco.com	TRUE	/	FALSE	1999999999	AWSALB	yS0bEPnhvx7HYCcklzZzQAv4M2TL1/ikeENWnb9ncm4MzAJsNM1WLlWykbe72FVDTo+38WqoTK/KAVZ6nGpHuM0ZVceWp6fGs/kUx6qyZm+r9AtFHNyJlZb/Wdmq
+www.sysco.com	TRUE	/	FALSE	1999999999	AWSALBCORS	yS0bEPnhvx7HYCcklzZzQAv4M2TL1/ikeENWnb9ncm4MzAJsNM1WLlWykbe72FVDTo+38WqoTK/KAVZ6nGpHuM0ZVceWp6fGs/kUx6qyZm+r9AtFHNyJlZb/Wdmq
+www.sysco.com	TRUE	/	FALSE	1999999999	SameSite	None
+
